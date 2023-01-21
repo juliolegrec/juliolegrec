@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @juliolegrec
+- 👋 Hi, I’m Julio
 - 👀 I’m interested in Web development and software engineering.
 - 🌱 I’m currently learning JavaScript and how to build MERN stack applications.
 - 📫 You can reach me by mail on julio.legrec@gmail.com
